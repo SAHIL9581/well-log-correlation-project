@@ -1,1 +1,0 @@
-# well-log-correlation-project
